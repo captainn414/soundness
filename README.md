@@ -1,6 +1,6 @@
 # soundness
 
-برای ویت لیست پروژه soundness  این کد هارو تو codespace  به ترتیب  میزنیم 
+برای وایت لیست پروژه soundness  این کد هارو تو codespace  به ترتیب  میزنیم 
 
 
 
